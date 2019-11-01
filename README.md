@@ -81,7 +81,7 @@ INSTALLED_APPS = [
 
 ### 1. GET /api/v1/genres/
 
-![](C:\Users\student\Downloads\127.0.0.1_8000_api_v1_genres_.png)
+![](.\README.assets\127.0.0.1_8000_api_v1_genres_.png)
 
 #### views.py
 
@@ -106,7 +106,7 @@ class MovieSerializer(serializers.ModelSerializer):
 
 
 
-![image-20191101112231306](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20191101112231306.png)
+![image-20191101112231306](.\README.assets\image-20191101112231306.png)
 
 #### views.py
 
@@ -168,7 +168,7 @@ def review_detail(request, id):
 
 
 
-![127.0.0.1_8000_swagger_ (1)](C:\Users\student\Downloads\127.0.0.1_8000_swagger_ (1).png)
+![127.0.0.1_8000_swagger_ (.\README.assets\127.0.0.1_8000_swagger_ (1).png)](C:\Users\student\Downloads\127.0.0.1_8000_swagger_ (1).png)
 
 
 
