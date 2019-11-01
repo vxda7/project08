@@ -164,7 +164,7 @@ def review_detail(request, id):
 
 
 
-![127.0.0.1_8000_swagger_ (1)](README.assets/127.0.0.1_8000_swagger_ (1).png)
+![127.0.0.1_8000_swagger_ (1)](README.assets/127.0.0.1_8000_swagger.png)
 
 
 
